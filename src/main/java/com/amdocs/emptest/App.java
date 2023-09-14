@@ -33,8 +33,8 @@ public class App{
     public static void main(String args[]) {  
         EmployeeDetails emp = new EmployeeDetails();  
         emp.setEmp_id(101);  
-        emp.setName("Harshit");   
-        emp.setSalary(95000);   
+        emp.setName("Shivika Rastogi");   
+        emp.setSalary(99995000);   
         System.out.println(emp);  
         }         
     }  
