@@ -1,12 +1,9 @@
 package com.amdocs.emptest;
 
-
-
 class EmployeeDetails {  
 int emp_id, salary;  
 String name;  
   
-//Getter and setters for getting and setting properties  
 public int getEmp_id() {  
     return emp_id;  
 }  
